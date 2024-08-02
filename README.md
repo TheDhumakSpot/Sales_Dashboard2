@@ -2,6 +2,7 @@
 
 ## Data Cleaning
 Clean Data (Order_Date) in one format - DD-MM-YYYY
+Removed Blank (null) values
 Created new column of Months
 
 ## Pivot Table
